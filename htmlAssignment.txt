@@ -1,0 +1,2 @@
+homepage, perfil, minhasReservas - julio
+housepage, login, register - eu
